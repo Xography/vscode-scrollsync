@@ -1,6 +1,6 @@
-# scrollsync README
+# scrollsync for Visual Studio Code
 
-This is the README for your extension "scrollsync". After writing up a brief description, we recommend including the following sections.
+This extension allows scrolling preview and editor windows synchronously, which is useful for markdown editing.
 
 ## Features
 
